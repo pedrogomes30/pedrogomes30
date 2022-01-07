@@ -2,7 +2,7 @@
 
 
 <!-- <img src="https://github.com/pedrogomes30/pedrogomes30/blob/main/octoPedro.png?raw=true" alt="octojeh" width="350" align="right" style="float:right"/> -->
-
+[<h1 align="right"> Bem Vindo!<h1>]
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="350"/> 
 
