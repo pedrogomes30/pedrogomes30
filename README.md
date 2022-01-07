@@ -1,6 +1,6 @@
 # Bem vindo 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="pedro gomes top languages" width="450"  /><img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="450" height='350' align='right'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="pedro gomes top languages" width="450"  /><img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="450" align='right'/>
 
 
 
