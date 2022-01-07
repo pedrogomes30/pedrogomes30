@@ -1,4 +1,15 @@
-# Bem vindo 
+# Olá, Bem vindo ao meu perfil! 
+
+###### Sobre:
+
+Bacharel em sistemas de informação, e cursando pós graduação em segurança da informação na universidade Estácio de Sá campus Cabo Frio, amante de sistemas operacionais por hobby, programador PHP , javascript, HTML e CSS. e me encaminhando para se tornar especialista em segurança na web.
+
+No tempo livre, costumo estudar novas tecnologias me aprimorar nas que costumo praticar, utilizando boas praticas de programação. já em aventurei em C++, C#, flutter e java.
+
+hoje desenvolvo tecnologias utilizando o PHP, no framework Adianti Biulder, e utilizando o banco de dados MySQL, além de implementações de Api para as plataformas Wordpress, Bling, e Vtex Telegram, RocketChat, WooCommerce e E-notas. além de construção de Api's proprietárias.
+
+atualmente estou aprimorando meus conhecimentos em LARAVEL e em REACT.
+
 
 ###### Estatisticas:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="pedro gomes top languages" width="400"  /><img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="400" align='right'/>
