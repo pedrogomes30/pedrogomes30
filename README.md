@@ -1,6 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="gabilemos's top languages" /><img 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="gabilemos's top languages" />
 
-<!-- src="https://github.com/pedrogomes30/pedrogomes30/blob/main/octoPedro.png?raw=true" alt="octojeh" width="350" align="right" style="float:right"/> -->
+
+<!-- <img src="https://github.com/pedrogomes30/pedrogomes30/blob/main/octoPedro.png?raw=true" alt="octojeh" width="350" align="right" style="float:right"/> -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="350"/> 
