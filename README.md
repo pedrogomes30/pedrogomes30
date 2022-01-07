@@ -2,10 +2,10 @@
 
 <div>
 <div align="left" width ='50%'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="pedro gomes top languages"  width="500"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogomes30&layout=compact&show_icons=true&theme=radical" alt="pedro gomes top languages"  width="350"  />
 </div>
-<div aligh="right" width ='50%'>
-<img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="500"  />
+<div aligh="right" width ='50%' style="float:left">
+<img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&theme=radical" width="350"  />
 </div>
 </div>
 
