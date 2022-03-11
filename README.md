@@ -8,7 +8,13 @@ No tempo livre, costumo estudar novas tecnologias ou aprimorar as que já utiliz
 
 hoje desenvolvo tecnologias utilizando o PHP, no framework Adianti Biulder, e utilizando o banco de dados MySQL, além de implementações de Api para as plataformas Wordpress, Bling, e Vtex Telegram, RocketChat, WooCommerce e E-notas. além de construção de Api's proprietárias.
 
-atualmente estou aprimorando meus conhecimentos em LARAVEL e em REACT.
+atualmente estou aprimorando meus conhecimentos em REACT + electron + SQlite + Node.js, 
+
+através deste projeto:
+
+<pre>
+https://github.com/pedrogomes30/novo-pdv
+</pre>
 
 
 ###### Estatisticas:
