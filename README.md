@@ -13,7 +13,7 @@ atualmente estou aprimorando meus conhecimentos em REACT + electron + SQlite + N
 através deste projeto:
 
 <pre>
-https://github.com/pedrogomes30/novo-pdv
+<a href='https://github.com/pedrogomes30/novo-pdv' />
 </pre>
 
 
