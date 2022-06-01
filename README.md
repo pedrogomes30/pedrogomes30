@@ -6,7 +6,7 @@ Oi, me chamo Pedro e sou Bacharel em sistemas de informação, e cursando pós g
 
 No tempo livre, costumo estudar novas tecnologias ou aprimorar as que já utilizo, com  boas praticas de programação. já em aventurei em C++, C#, flutter e java.
 
-hoje desenvolvo tecnologias utilizando o PHP, no framework Adianti Biulder, e utilizando o banco de dados MySQL, além de implementações de Api para as plataformas Wordpress, Bling, e Vtex Telegram, RocketChat, WooCommerce e E-notas. além de construção de Api's proprietárias.
+desenvolvo tecnologias proprietárias utilizando o PHP, no framework Adianti Biulder, e utilizando o banco de dados MySQL. porém hoje estou migrando alguns destes projetos para um ambiente com Laravel + VueJS, onde vc pode conferir nos repositórios abaixo.
 
 
 
