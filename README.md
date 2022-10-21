@@ -1,8 +1,9 @@
-# Bem vindo! 
+# Bem vindo, viditante! 
 
 ###### Sobre:
 
-Olá, me chamo pedro e sou desenvolvedor de software a 2 anos e meio, com PHP e o framework adianti builder, atualmente estou agregando a minha stack de desenvolvimento ambientes em docker, nodeJS, VueJs e mongoDB, na qual é possível conferir nestes repositórios abaixo .
+sinta-se livre para olhar algumas ideias de projeto que tive. 
+sou um desenvolvedor de software que trabalha a 2 anos com PHP junto ao Mysql, e que ultimamente está agregando à stack de desenvolvimento Node.js, nest.js, mongoDB, vuejs. alem de executá-los em um abiente Docker. abaixo você encontrará alguns exemplos.
 
 
 
