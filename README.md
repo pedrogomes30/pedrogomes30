@@ -1,12 +1,8 @@
-# Olá! 
+# Bem vindo! 
 
 ###### Sobre:
 
-Oi, me chamo Pedro e sou Bacharel em sistemas de informação, e cursando pós graduação em segurança da informação na universidade Estácio de Sá campus Cabo Frio, amante de sistemas operacionais por hobby, programador PHP , javascript, HTML e CSS. e me encaminhando para se tornar especialista em segurança na web.
-
-No tempo livre, costumo estudar novas tecnologias ou aprimorar as que já utilizo, com  boas praticas de programação. já em aventurei em C++, C#, flutter e java.
-
-desenvolvo tecnologias proprietárias utilizando o PHP, no framework Adianti Biulder, e utilizando o banco de dados MySQL. porém hoje estou migrando alguns destes projetos para um ambiente com Laravel + VueJS, onde vc pode conferir nos repositórios abaixo.
+Olá, me chamo pedro e sou desenvolvedor de software a 2 anos e meio, com PHP e o framework adianti builder, atualmente estou agregando a minha stack de desenvolvimento ambientes em docker, nodeJS, VueJs e mongoDB, na qual é possível conferir nestes repositórios abaixo .
 
 
 
