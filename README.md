@@ -1,4 +1,4 @@
-# Bem vindo, viditante! 
+# Bem vindo, visitante! 
 
 ###### Sobre:
 
