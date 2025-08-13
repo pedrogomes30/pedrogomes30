@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A74DA&height=150&section=header"/>
 </p>
 
-<h1 align="center">🚀 Projetos em Destaque</h1>
-<p align="center">Clique nos cards para ver o repositório</p>
-
 ## 📊 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrogomes30&show_icons=true&theme=dark" height="180em"/>
